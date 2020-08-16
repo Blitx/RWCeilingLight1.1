@@ -2,7 +2,10 @@
 <ModMetaData>
 	<name>Ceiling Light</name>
 	<author>BeansOfJelly, updated by Francini</author>
-	<supportedVersions><li>1.1</li></supportedVersions>
+	<supportedVersions>
+		<li>1.1</li>
+		<li>1.2</li>
+	</supportedVersions>
 	<packageId>Francini.CL11</packageId>
 	<description>Adds ceiling light.</description>
 </ModMetaData>
